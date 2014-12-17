@@ -5,7 +5,7 @@ Contributors: mordauk, norcross
 Donate link: http://pippinsplugins.com/support-the-site
 Tags: CodePen.io, oEmbed, CodePen
 Requires at least: 3.7
-Tested up to: 3.9
+Tested up to: 4.1
 Stable tag: 1.0.0
 
 Add CodePen to the available oEmbed providers
